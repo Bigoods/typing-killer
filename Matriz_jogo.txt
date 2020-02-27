@@ -1,0 +1,9 @@
+a = 0 - 80
+se a = 0 || a = 80
+	b qualquer
+
+se a != 0 || a != 80
+	b = 0 || b= 25
+
+a = a - 3	para as palavras
+b = b - 1	para as palavras
